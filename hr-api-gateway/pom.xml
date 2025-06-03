@@ -12,7 +12,7 @@
 	<artifactId>hr-api-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hr-api-gateway</name>
-	<description>Spring Cloud Gateway Server</description>
+	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
